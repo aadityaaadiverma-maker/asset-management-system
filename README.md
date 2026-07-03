@@ -44,5 +44,5 @@ The project automatically creates:
 
 ## Author
 
-Aaditya Verma
+Aaditya Verma,
 Pranav Gupta
