@@ -169,16 +169,7 @@ Passwords are **never stored in plain text**, improving user credential security
 
 ## 📸 Screenshots
 
-> *Screenshots will be added in future updates.*
 
-Suggested screenshots:
-
-- Login Screen
-- Main Menu
-- Add Asset
-- Update Asset
-- Asset Records
-- Database Tables
 
 ---
 
