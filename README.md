@@ -45,3 +45,4 @@ The project automatically creates:
 ## Author
 
 Aaditya Verma
+Pranav Gupta
