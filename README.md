@@ -166,11 +166,29 @@ Passwords are **never stored in plain text**, improving user credential security
 - Problem Solving
 
 ---
-
 ## 📸 Screenshots
 
+![Login Screen](screenshots/picture1.png)
+
+---
+
+![Main Menu](screenshots/picture2.png)
+
+---
 
 
+![Add Asset](screenshots/picture3.png)
+
+---
+
+
+![View Assets](screenshots/picture4.png)
+
+
+---
+
+
+![Delete Asset](screenshots/delete_asset.png)
 ---
 
 ## 🔮 Future Improvements
